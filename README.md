@@ -24,7 +24,7 @@ Summary:
 ---
 
 ### 2️⃣ **Assignment 2: Advanced RAG & Multi-Agent Systems**
-[View Colab notebook](https://colab.research.google.com/drive/1D9Umm-geNGnJ4HI7IOezcF_FiMmFVrJu?usp=sharing))
+[View Colab notebook](https://colab.research.google.com/drive/1D9Umm-geNGnJ4HI7IOezcF_FiMmFVrJu?usp=sharing)
 
 Summary:
 - Developed advanced RAG (retrieval-augmented generation) chatbots:
@@ -39,7 +39,7 @@ Summary:
 ---
 
 ### 3️⃣ **Final Project: Vocational Chatbot**
-[View Colab notebook](https://colab.research.google.com/drive/1pJtgzFnTDxL7xTLJJ-sikg1sWnkd5Gks?usp=sharing))
+[View Colab notebook](https://colab.research.google.com/drive/1pJtgzFnTDxL7xTLJJ-sikg1sWnkd5Gks?usp=sharing)
 
 Summary:
 - Created a vocational guidance chatbot.
